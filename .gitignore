@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.pnpm-store/
+.openai/
+.env
+.env.*
+!.env.example
+*.log
+*.psd
+*.psb
+*.zip
+.DS_Store
+Thumbs.db

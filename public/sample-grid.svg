@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1828" height="446" viewBox="0 0 1828 446">
+<defs><pattern id="small" width="11.12" height="11.12" patternUnits="userSpaceOnUse"><path d="M11.12 0H0V11.12" fill="none" stroke="#ffc799" stroke-width=".6"/></pattern><pattern id="grid" width="55.6" height="55.6" patternUnits="userSpaceOnUse"><rect width="55.6" height="55.6" fill="url(#small)"/><path d="M55.6 0H0V55.6" fill="none" stroke="#ef9a56" stroke-width="1.2"/></pattern></defs>
+<rect width="1828" height="446" fill="white"/><rect width="1828" height="446" fill="url(#grid)"/>
+<g fill="white" stroke="#182923" stroke-width="5" stroke-linejoin="round"><path d="M220 155L250 140L420 300Q445 325 550 325L550 350Q440 355 405 337Z"/><path d="M710 250L760 190Q840 185 880 150Q960 185 1090 150L1050 350H750Z"/></g>
+<g fill="none" stroke="#182923" stroke-width="3"><path d="M201 139l-12-12m65 4l-12-12m320 215h16m-16 19h16M641 255h28M880 133v-14m0 246v17m-158-33h-18m359 0h18"/></g>
+<g fill="#343434" font-size="25" font-family="serif"><text x="1200" y="183">DEMO-001，虚构器物示意图。</text><text x="1200" y="228">仅供演示框选与比例校准。</text><text x="1200" y="273">残长 cm，残高 cm，壁厚 cm。</text></g></svg>

@@ -1,5 +1,7 @@
 # 器绘 · 考古绘图工作台
 
+**[点击打开网页工作台](https://katherinezxc.github.io/archaeology-drawing-studio-/)**
+
 面向考古器物绘图整理的浏览器工具：将一张图纸中的多件器物裁剪为单件图，校对文字说明、校准比例尺，并导出 PSD 或 JPG。
 
 ## 主要功能

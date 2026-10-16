@@ -22,7 +22,7 @@ pnpm build
 pnpm start
 ```
 
-浏览器打开 <http://127.0.0.1:4175/>，保持终端开启；按 Ctrl+C 停止服务。不要直接双击 HTML 文件。也可以使用 `npm install`、`npm run build`、`npm start`，但 pnpm 锁文件提供更可重复的依赖版本。
+服务启动后，在启动该服务的这台电脑上打开 `http://127.0.0.1:4175/`；保持终端开启，按 Ctrl+C 停止服务。此地址只指向本机，不能分享给其他人打开。不要直接双击 HTML 文件。也可以使用 `npm install`、`npm run build`、`npm start`，但 pnpm 锁文件提供更可重复的依赖版本。
 
 启动服务只监听本机。源码仓库不包含 Node.js、依赖目录或 OCR 模型；首次安装和 OCR 模型加载需要联网。构建产物在 `dist/`，可由支持 JavaScript 模块、Web Worker 和 WASM 的静态服务器托管。
 
